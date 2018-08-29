@@ -1,0 +1,54 @@
+.circlepiece {
+    height: 100%;
+    width: 100%;
+    background-color: red;
+   
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+
+#uleft{
+    background-color: red;
+    border-top-left-radius: 100%;
+    
+    
+    
+}
+
+#uright{
+    background-color: yellow;
+    border-top-right-radius: 100%;
+    
+   
+    
+}
+
+#dleft{
+    background-color: blue;
+    border-bottom-left-radius: 100%;
+}
+
+#dright{
+    background-color: green;
+    border-bottom-right-radius: 100%;
+}
+
+.top{
+    justify-content: center;
+    display: flex;
+    height: 150px;
+    width: 300px;
+}
+
+.bottom{
+    justify-content: center;
+    display:flex;
+    height: 150px;
+    width: 300px;
+}
+
+
